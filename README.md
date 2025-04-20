@@ -8,6 +8,3 @@
 
 # 4 Tema
 [4UD](4UD/readme.md)
-
-# GIT
-[Flujobsiengitlocal](./Flujobsiengitlocal/README.md)
